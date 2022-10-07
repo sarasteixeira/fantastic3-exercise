@@ -1,7 +1,7 @@
 # Hello World
 # Team Git Practice 
 
-Andrá, Sara e Fábio!!!
+André, Sara e Fábio!!!
 
 **25 min**
 
