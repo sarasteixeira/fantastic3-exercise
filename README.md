@@ -1,5 +1,7 @@
 # Team Git Practice 
 
+Andrá, Sara e Fábio
+
 **25 min**
 
 Let's simulate using Git in a team environment to help us better prepare 
